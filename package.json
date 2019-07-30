@@ -1,0 +1,30 @@
+{
+  "name": "nodebb-plugin-video",
+  "version": "0.0.1",
+  "description": "this plugin embeds an videoplayer. when upload a video this does not appear as a link but as players in the content.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shiyiya/nodebb-plugin-video.git"
+  },
+  "nbbpm": {
+    "compatibility": ">=0.7.0"
+  },
+  "keywords": [
+    "nodebb",
+    "plugin",
+    "video",
+    "player",
+    "webm",
+    "ogv",
+    "mp4",
+    "mov"
+  ],
+  "author": {
+    "name": "shiyi",
+    "email": "i@runtua.cn"
+  }
+}
