@@ -19,7 +19,7 @@
     },
     {
       // local video
-      from: /<a href="\/(:*.*.(mp4|ogv|mov|webm))">lplay<\/a>/g,
+      from: /<a href="\/(:*.*.(mp4|ogv|mov|webm))">lplayer<\/a>/g,
       // prettier-ignore
       to:
         '<div class="video-plugin-box local"  data-src="$1" data-type="video/mp4" data-codec="avc1.42E01E, mp4a.40.2">' +

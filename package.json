@@ -1,6 +1,6 @@
 {
-  "name": "nodebb-plugin-video",
-  "version": "0.0.1",
+  "name": "nodebb-plugin-href2video",
+  "version": "0.0.2",
   "description": "this plugin embeds an videoplayer. when upload a video this does not appear as a link but as players in the content.",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/shiyiya/nodebb-plugin-video.git"
+    "url": "git+https://github.com/shiyiya/nodebb-plugin-href2video.git"
   },
   "nbbpm": {
     "compatibility": ">=0.7.0"
